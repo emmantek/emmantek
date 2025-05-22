@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DREAMS**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Software Engineering Projects**
 
